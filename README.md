@@ -6,6 +6,11 @@ This is a curated public companion to the private Kriya engine. **Not the engine
 
 ---
 
+> **Engine accuracy & methodology notes for [Kriya](https://github.com/Insights-By-Omkar/insights-astrology-api-case-study), part of a 4-product solo studio by [Omkar Jaliparthi](https://github.com/omkarjaliparthi).**
+> Other products: [Urja Critic](https://github.com/omkarjaliparthi/urja-critic-case-study) · [Netra](https://github.com/omkarjaliparthi/insights-by-omkar-netra-case-study) · [Insights by Omkar](https://github.com/Insights-By-Omkar/insights-by-omkar-case-study). SDKs: [npm](https://npmjs.com/package/kriya-astrology) · [PyPI](https://pypi.org/project/kriya-astrology) · [Go](https://github.com/Insights-By-Omkar/kriya-go).
+
+---
+
 ## Why publish this
 
 Kriya is a closed-source commercial API (proprietary engine, MIT-licensed SDKs in [Go](https://github.com/Insights-By-Omkar/kriya-go), TypeScript, and Python). But the engineering decisions behind it shouldn't be opaque.
