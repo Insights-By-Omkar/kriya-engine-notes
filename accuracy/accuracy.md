@@ -9,7 +9,7 @@ astrology engine. Every claim below is backed by tests in
 | Body     | Algorithm                     | Typical accuracy vs. JPL DE | CI tolerance |
 |----------|-------------------------------|------------------------------|--------------|
 | Sun      | VSOP87 truncated (Meeus §25)  | < 0.01° (36 arc-seconds)     | 0.01°        |
-| Moon     | ELP2000 truncated (Meeus §47) | < 0.1° (6 arc-minutes)       | 0.10°        |
+| Moon     | ELP/MPP02 (production path)   | 0.87″ apparent vs Horizons · ~21″ geometric (DE441 ceiling) | sub-arcsec (apparent) |
 | Mercury–Neptune | VSOP87D full            | < 0.01° (36 arc-seconds)     | 0.01°–0.05°  |
 | Pluto    | Standish Keplerian            | < 0.5°                       | 0.5°         |
 
