@@ -6,8 +6,8 @@ This is a curated public companion to the private Kriya engine. **Not the engine
 
 ---
 
-> **Engine accuracy & methodology notes for [Kriya](https://github.com/Insights-By-Omkar/insights-astrology-api-case-study), part of [Insights by Omkar](https://github.com/omkarjaliparthi).**
-> Other products: [Urja Critic](https://github.com/omkarjaliparthi/urja-critic-case-study) · [Netra](https://github.com/omkarjaliparthi/insights-by-omkar-netra-case-study) · [Insights by Omkar](https://github.com/Insights-By-Omkar/insights-by-omkar-case-study). SDKs: [npm](https://npmjs.com/package/kriya-astrology) · [PyPI](https://pypi.org/project/kriya-astrology) · [Go](https://github.com/Insights-By-Omkar/kriya-go).
+> **Engine accuracy & methodology notes for Kriya, part of [Insights by Omkar](https://github.com/Insights-By-Omkar).**
+> Live products: [kriya.insightsbyomkar.com](https://kriya.insightsbyomkar.com) · [urja.insightsbyomkar.com](https://urja.insightsbyomkar.com) · [netra.insightsbyomkar.com](https://netra.insightsbyomkar.com) · [insightsbyomkar.com](https://insightsbyomkar.com). SDKs: [npm](https://npmjs.com/package/kriya-astrology) · [PyPI](https://pypi.org/project/kriya-astrology) · [Go](https://github.com/Insights-By-Omkar/kriya-go).
 
 ---
 
@@ -43,8 +43,6 @@ If you're evaluating Kriya for production use, this is the engineering you'd ask
 | Repo | Purpose |
 |---|---|
 | [`kriya-go`](https://github.com/Insights-By-Omkar/kriya-go) | Official Go SDK · MIT · 129 endpoints · zero runtime dependencies |
-| [`insights-astrology-api-case-study`](https://github.com/Insights-By-Omkar/insights-astrology-api-case-study) | High-level architecture, decisions, source policy |
-| [`solo-founder-ip-playbook`](https://github.com/Insights-By-Omkar/solo-founder-ip-playbook) | The IP / legal / licensing decisions behind the studio |
 
 The engine code itself stays proprietary — see [kriya.insightsbyomkar.com](https://kriya.insightsbyomkar.com) for product, docs, and pricing.
 
@@ -57,3 +55,4 @@ The documents in this repository are MIT-licensed (see [`LICENSE`](./LICENSE)). 
 ---
 
 *Numbers, not vibes.*
+
